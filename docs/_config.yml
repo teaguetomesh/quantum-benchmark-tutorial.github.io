@@ -22,10 +22,10 @@ title: "Tutorial: Scalable Quantum Benchmarking"
 email: teague@super.tech
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to the ISCA 2022 tutorial on SupermarQ: A Scalable Quantum Benchmark suite.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: teaguetomesh
 github_username:  teaguetomesh
+#baseurl: "" # the subpath of your site, e.g. /blog
+#url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: jekyll-theme-cayman

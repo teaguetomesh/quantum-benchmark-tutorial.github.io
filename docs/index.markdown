@@ -3,7 +3,8 @@ layout: default
 title: "ISCA '22 Tutorial: Scalable Quantum Benchmarking"
 ---
 
-![Logo](https://teaguetomesh.github.io/quantum-benchmark-tutorial.github.io/static/SupermarQ_Logo.png)
+{:refdef: style="text-align: center;"}
+![Logo](/static/SupermarQ_Logo.png){:width="50%"; refdef}
 
 The goal of this tutorial is to:
 1. Provide an overview of the current quantum benchmarking landscape.

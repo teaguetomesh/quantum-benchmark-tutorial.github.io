@@ -23,20 +23,20 @@ we can use to run the SupermarQ benchmarks.
 Please note that Python version `3.7` or higher **is required**. Once you have the correct version of Python installed,
 a new virtual environment can be created via the command:
 
-```python
+```
 python3 -m venv name_of_your_environment
 ```
 
 Activate that new environment by
 
-```python
+```
 source name_of_your_environment/bin/activate
 ```
 
 Once this is completed you can type the command `which python` to see that you are now referencing the python installed at the location
 of your new environment. With your newly created and activated python environment it is time to install all of the necessary packages.
 
-```python
+```
 pip install cirq-superstaq supermarq
 ```
 

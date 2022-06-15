@@ -37,13 +37,16 @@ Once this is completed you can type the command `which python` to see that you a
 of your new environment. With your newly created and activated python environment it is time to install all of the necessary packages.
 
 ```
-pip install cirq-superstaq supermarq
+pip install supermarq
 ```
 
-This will install `cirq-superstaq` and its dependencies -- which we will use to access different quantum computers available over the cloud, and the `supermarq` package which contains all of the code for generating and evaluating the quantum benchmarks.
+This will install `supermarq` and its dependencies: `cirq-superstaq` and `qiskit-superstaq` -- which we will use to access different quantum computers available over the cloud.
 
-[More content coming soon!]
+# Schedule (Sunday, June 19, NYC)
 
-# Designing your own benchmarks
-
-[More content coming soon!]
+- **8:30 - 9:00**: Morning coffee/breakfast
+- **9:00 - 9:45**: Overview of quantum benchmarking and in-depth walkthrough of SupermarQ
+- **9:45 - 10:00**: Questions and discussion
+- **10:00 - 10:30**: Hands-on development -- participants will have the opportunity to implement, profile, and run their own benchmarks on real quantum hardware
+- **10:30 - 11:00**: Coffee break
+- **11:00 - 12:00** Continued hands-on benchmark development, general questions and discussion

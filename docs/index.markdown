@@ -38,9 +38,16 @@ of your new environment. With your newly created and activated python environmen
 
 ```
 pip install supermarq
+pip install jupyterlab
 ```
 
 This will install `supermarq` and its dependencies: `cirq-superstaq` and `qiskit-superstaq` -- which we will use to access different quantum computers available over the cloud.
+
+Start your jupyter lab by running the command:
+
+```
+jupyter lab
+```
 
 # Location: Chelsea (lower level)
 

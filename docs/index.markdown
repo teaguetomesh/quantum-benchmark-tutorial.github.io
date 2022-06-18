@@ -42,6 +42,8 @@ pip install supermarq
 
 This will install `supermarq` and its dependencies: `cirq-superstaq` and `qiskit-superstaq` -- which we will use to access different quantum computers available over the cloud.
 
+# Location: Chelsea (lower level)
+
 # Schedule (Sunday, June 19, NYC)
 
 - **8:30 - 9:00**: Morning coffee/breakfast
